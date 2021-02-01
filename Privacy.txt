@@ -1,0 +1,296 @@
+! https://myanimelist.net
+myanimelist.net###gdpr-modal-bottom
+myanimelist.net##.btn-mal-service
+myanimelist.net##.btn-login
+myanimelist.net##.btn-signup
+myanimelist.net##.banner-header-anime-straming
+myanimelist.net###footer-block
+
+! weather.com
+weather.com##.PrivacyDataNotice--notice--2-o4G
+weather.com##.Footer--socialLogos--UO26v
+weather.com##.LinkList--inline-no-border--15tLI.Footer--corporateLinks--26KPc.Footer--linklist--1nSN2.LinkList--LinkList--N5p7e
+weather.com##.LinkList--inline--6G_xP.Footer--legalLinks--2scMz.Footer--linklist--1nSN2.LinkList--LinkList--N5p7e
+weather.com##.LinkList--inline--6G_xP.Footer--privacyLinks--xcXJA.Footer--linklist--1nSN2.LinkList--LinkList--N5p7e
+weather.com##.Footer--externalAttribution--myrsl
+
+! https://www.youtube.com
+www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-small.style-suggestive.ytd-button-renderer.style-scope
+www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com###guide-button
+www.youtube.com##.ytp-autonav-toggle-button-container
+www.youtube.com##.ytp-promotooltip-content
+www.youtube.com##.ytp-promotooltip-pointer
+www.youtube.com##.ytp-promotooltip-buttons
+www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
+www.youtube.com###contentContainer
+www.youtube.com###icon > .yt-img-shadow.style-scope
+www.youtube.com##.ytd-popup-container.style-scope > .yt-tooltip-renderer.style-scope
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
+www.youtube.com##paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
+www.youtube.com##.size-default.style-suggestive.ytd-video-owner-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-suggestive.ytd-button-renderer.style-scope
+
+! https://fitgirl-repacks.site
+fitgirl-repacks.site###smart_push_smio_overlay
+fitgirl-repacks.site###smart_push_smio_window
+
+! https://www.crunchyroll.com
+www.crunchyroll.com##.cf.message-container
+www.crunchyroll.com##.twitter-share-button
+www.crunchyroll.com###header_try_premium_free
+www.crunchyroll.com##.showmedia-free-trial-content
+www.crunchyroll.com###showmedia_free_trial_signup
+www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
+www.crunchyroll.com##.contents
+www.crunchyroll.com##.login.userpanel-item
+www.crunchyroll.com##.queue.userpanel-item
+www.crunchyroll.com###games_button
+www.crunchyroll.com##[href="/news"]
+www.crunchyroll.com###store_button
+www.crunchyroll.com##.cr-expo-banner
+www.crunchyroll.com##[src="https://img1.ak.crunchyroll.com/i/spire2/e37ac0fea857d4433dd748339e4e9fcd1608591528_main.png"]
+www.crunchyroll.com##[src="https://img1.ak.crunchyroll.com/i/spire2/09cbe4a142715aaa8f36e09ad5c0fbd61608591495_main.png"]
+www.crunchyroll.com##.follow-crunchyroll-social
+www.crunchyroll.com###social_media
+www.crunchyroll.com##[src="https://img1.ak.crunchyroll.com/i/spire2/956a856c75fe673b80e51af17e242d1c1610117615_main.png"]
+www.crunchyroll.com###welcome_left
+www.crunchyroll.com##li.large-margin-bottom:nth-of-type(1)
+
+
+! https://www.pscp.tv
+www.pscp.tv##.fill
+www.pscp.tv##.OutlineHeart > svg > .shape
+www.pscp.tv##.Chat--visible.Broadcast-Chat > .jqjkUJ.sc-18jr3f7-0
+
+! https://www.4chan.org
+www.4chan.org###announce
+boards.4channel.org##h3
+
+! https://www.amazon.com
+www.amazon.com###\30 Is5RHBplAZiEg6c9ujYZA > .cropped-image-map-size > .cropped-image-map-center-alignment
+www.amazon.com##._video-player_static-card_pvea-static-card-background-gradient__1jwm9.a-section
+www.amazon.com##.a-carousel-goto-nextpage
+www.amazon.com###Cu0hDTUtD2pCtqtq9r-qGw > .cropped-image-map-size > .cropped-image-map-center-alignment .aok-inline-block.a-link-normal > [src]
+www.amazon.com##.a-carousel
+www.amazon.com##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
+
+! https://www.aliexpress.com
+www.aliexpress.com##.top-banner-container > [href^="https://campaign.aliexpress.com/wow/gcp/ae/channel/ae/accelerate/tupr"]
+www.aliexpress.com##.top-banner-container
+
+! https://twitter.com
+twitter.com##.r-1inuy60.css-1dbjc4n
+twitter.com##.r-1upvrn0.r-urgr8i.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1gm7m50.r-14lw9ot.css-1dbjc4n:nth-of-type(3)
+
+! https://www.coinbase.com
+www.coinbase.com##.cYKNWe.Banner__Container-sc-14no7q4-0
+www.coinbase.com##.eCGjpA.moduleFade__Frame-sc-53f9yi-0 > .hQHOjL.ModalTrigger__Trigger-sc-1npzs5i-0.gaVUrq.Flex-l69ttv-0
+www.coinbase.com##section:nth-of-type(2)
+
+! https://www.twitch.tv
+www.twitch.tv##.tw-pd-y-1.tw-mg-r-1.tw-full-height.tw-flex
+www.twitch.tv##.tw-relative.prime-offers > .tw-relative.tw-inline-block .tw-inline-flex .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+www.twitch.tv##.tw-pd-2.tw-mg-1.tw-flex-column.tw-flex.tw-elevation-1.tw-c-background-base.tw-border-radius-large
+www.twitch.tv##.tw-relative > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-inline-flex.tw-full-width.tw-core-button--secondary.tw-core-button.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+www.twitch.tv##.tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-inline-flex.tw-full-width.tw-core-button--primary.tw-core-button.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+www.twitch.tv##.tw-textarea--no-resize.tw-textarea.tw-full-width.tw-font-size-6.tw-border-radius-medium.tw-block
+www.twitch.tv##.tw-pd-x-1.tw-pd-b-1.tw-block.chat-input
+www.twitch.tv##.tw-justify-content-center.tw-inline-flex.tw-full-width.tw-full-height.tw-flex-nowrap.channel-leaderboard-header-rotating__users
+www.twitch.tv##.tw-relative.tw-c-background-base.tw-block.channel-leaderboard-header-rotating > .tw-full-height.tw-flex.tw-align-items-center
+www.twitch.tv##.tw-relative.tw-c-background-base.tw-block.channel-leaderboard-header-rotating
+www.twitch.tv##.tw-relative.tw-full-height.tw-flex-nowrap.tw-flex-grow-1.tw-flex-column.tw-flex.tw-c-text-base.chat-room__content > .tw-z-default
+www.twitch.tv##.tw-full-width.tw-full-height.tw-block > div
+www.twitch.tv##.tw-relative.tw-justify-content-center.tw-flex.tw-align-items-center.featured-content-carousel
+www.twitch.tv##.tw-full-width.tw-full-height.tw-block
+www.twitch.tv##.tw-top-0.tw-left-0.tw-full-width.tw-absolute.headliner-ad
+www.twitch.tv##.tw-pd-x-3.tw-pd-t-2.front-page-carousel
+www.twitch.tv##.tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-inline-flex.tw-core-button.tw-button-icon--primary.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+www.twitch.tv##.tw-relative.report-button > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+
+! https://purdue.brightspace.com
+purdue.brightspace.com##.d2l-navigation-s-course-menu > d2l-dropdown
+purdue.brightspace.com##.instagram-media > div
+purdue.brightspace.com###d2l_1_18_619 > .d2l-widget-content-padding > .d2l-htmlblock
+purdue.brightspace.com##.homepage-col-4 > .d2l-custom-widget.d2l-widget > .d2l-widget-header
+purdue.brightspace.com##.instagram-media-rendered.instagram-media
+purdue.brightspace.com##div.d2l-page-message-container:nth-of-type(2)
+
+! https://docs.google.com
+docs.google.com##.jfk-butterBar-shown.jfk-butterBar-info.jfk-butterBar
+
+! https://www.nicovideo.jp
+www.nicovideo.jp##.VideoMenuContainer-areaRight.col-1of12.GridCell
+www.nicovideo.jp##.VideoMenuContainer-areaLeft.col-fill.GridCell
+www.nicovideo.jp##.VideoMenuContainer.Grid
+www.nicovideo.jp##a.common-header-b4zojx:nth-of-type(7)
+www.nicovideo.jp##a.common-header-b4zojx:nth-of-type(8)
+
+! https://www.53.com
+www.53.com##.c-alert__content
+www.53.com##.full-together.section.outer-grid-container
+www.53.com##.app-cta.s-rte.c-text-block--gray.js-content-block-height.c-text-block.srf-text-block-245aecfe-b54e-4285-ab81-77db27b521ec
+onlinebanking.53.com##li.ng-scope.list-nav-v__item:nth-of-type(4)
+
+! https://robinhood.com
+robinhood.com##.css-17cxjzm.css-11qjisw._28R8oZGOkuO2zzUALVVteM
+robinhood.com##.css-1dm44bb
+robinhood.com##.css-gmuwbf
+
+! https://www.tracfone.com
+www.tracfone.com##.clearfix.find_store > .language
+www.tracfone.com###lnk_help_text > .inline-tooltip.in.fade.top.popover > .popover-inner > .popover-content
+www.tracfone.com###lnk_help_text > .inline-tooltip.in.fade.top.popover
+www.tracfone.com##.col-sm-push-9.col-xs-12.col-sm-3
+www.tracfone.com##.ng-valid-loginpassword.ng-valid.ng-valid-loginemail.ng-valid-parse.ng-dirty.ng-valid-email.ng-valid-maxlength.ng-valid-minlength.ng-scope > div.row > .ng-isolate-scope > .bottom-content.col-lg-12.col-md-12.col-sm-12.col-xs-12
+www.tracfone.com##.ng-valid-loginpassword.ng-valid.ng-valid-loginemail.ng-valid-parse.ng-dirty.ng-valid-email.ng-valid-maxlength.ng-valid-minlength.ng-scope > .fbmessangerButton > .row
+www.tracfone.com##.ng-valid-loginpassword.ng-valid.ng-valid-loginemail.ng-valid-parse.ng-dirty.ng-valid-email.ng-valid-maxlength.ng-valid-minlength.ng-scope > div.row > .ng-isolate-scope > .or-content.text-center.col-lg-12.col-md-12.col-sm-12.col-xs-12
+
+! https://rarbg.to
+rarbg.to##.tdlinkfull2.anal
+rarbg.to##.header5
+rarbg.to##div.divadvscat:nth-of-type(1)
+rarbg.to##form > table > tbody > tr > .lista
+rarbg.to##.header4
+
+! https://cuddlyoctopus.com
+cuddlyoctopus.com##.topnav-no-hdnav.navRight.topnav.sc--colored.social-icons.sh-component
+
+! https://wall.alphacoders.com
+wall.alphacoders.com##[href="https://alphacoders.com/users/register"]
+wall.alphacoders.com##[href="https://alphacoders.com/users/login"]
+wall.alphacoders.com##[href="https://alphacoders.com/contest"]
+wall.alphacoders.com##[href="https://alphacoders.com/site/submit-wallpaper"]
+wall.alphacoders.com###cookie_consent
+
+! https://avatars.alphacoders.com
+avatars.alphacoders.com##[href="https://alphacoders.com/users/register"]
+avatars.alphacoders.com##[href="https://alphacoders.com/users/login"]
+avatars.alphacoders.com##[href="https://alphacoders.com/contest"]
+avatars.alphacoders.com##[href="https://alphacoders.com/site/submit-avatar"]
+avatars.alphacoders.com###cookie_consent
+
+! https://www.infowars.com
+www.infowars.com##a.css-zvnv0x:nth-of-type(2)
+
+! http://192.168.1.138
+192.168.1.138##.col-sm-6.col-xs-12
+192.168.1.138##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
+
+! https://steamcommunity.com
+steamcommunity.com##a.menuitem:nth-of-type(4)
+
+! https://olb.1stsource.com
+olb.1stsource.com##.featured-nav-list > li.li-level-0 > .navigation-link.e1.a-level-0.item > .a-label
+olb.1stsource.com###pfmWidget
+olb.1stsource.com###Rewards
+olb.1stsource.com##div.composite-layout-widget.composite-layout__widget-container:nth-of-type(3)
+olb.1stsource.com##div.composite-layout-widget.composite-layout__widget-container:nth-of-type(4)
+olb.1stsource.com##div.composite-layout-widget.composite-layout__widget-container:nth-of-type(2)
+
+! https://banned.video
+banned.video##.css-17l8gso
+
+! https://chan.sankakucomplex.com
+chan.sankakucomplex.com###news-ticker > ul
+chan.sankakucomplex.com###news-ticker
+chan.sankakucomplex.com###headerthumbs
+chan.sankakucomplex.com###has-mail-notice
+chan.sankakucomplex.com###sp1 > div > [href="https://get.sankaku.plus/"]
+chan.sankakucomplex.com##[href="https://get.sankaku.plus/"] > font
+chan.sankakucomplex.com###subnavbar > li > [href^="/wiki/show"]
+chan.sankakucomplex.com##[href="/comment/index"]
+chan.sankakucomplex.com##[href="/post/upload"]
+chan.sankakucomplex.com##li:nth-of-type(8)
+chan.sankakucomplex.com##li:nth-of-type(7)
+
+! https://www.pixiv.net
+www.pixiv.net##div.hQsnCM.sc-1p2gd44-12:nth-of-type(4)
+www.pixiv.net##.TbiBa.sc-1p2gd44-9
+www.pixiv.net##.hAYyXm.sc-4nj1pr-6
+www.pixiv.net##.lmABtt.sc-1pad3y5-1
+www.pixiv.net##.OBqnq.sc-1oyjv05-0
+
+! https://mail.tutanota.com
+mail.tutanota.com##button.button-height.button-width-fixed.bg-transparent.noselect.limit-width:nth-of-type(3)
+mail.tutanota.com##button.button-height.button-width-fixed.bg-transparent.noselect.limit-width:nth-of-type(2)
+mail.tutanota.com##button.button-height.button-width-fixed.bg-transparent.noselect.limit-width:nth-of-type(1)
+mail.tutanota.com##div.plr-nav-button:nth-of-type(3)
+
+! 2021-01-10 https://japaneseasmr.com
+japaneseasmr.com###site-primary-menu > .menu-item-7436.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://japaneseasmr.com/request/"]
+japaneseasmr.com###site-primary-menu > .menu-item-26986.menu-item-object-custom.menu-item-type-custom.menu-item > [href="https://japaneseasmr.com/info/"]
+japaneseasmr.com##.comment-form
+japaneseasmr.com##.comment-respond
+
+! https://myapps.paychex.com
+myapps.paychex.com###chatFab
+
+! https://trade.aliexpress.com
+trade.aliexpress.com###J_xiaomi_dialog
+
+! https://www.reddit.com
+www.reddit.com##._2nelDm85zKKmuD94NequP0.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._3t7aUZU2b2KWwDQkfT2eHl._3Wg53T10KuuPmyWOMWsY2F.Z_HUY3BUsGOBOtdmH94ZS
+www.reddit.com##._2nelDm85zKKmuD94NequP0.HNozj_dKjQZ59ZsfEegz8._2tU8R9NTqhvBrhoNAXWWcP._3t7aUZU2b2KWwDQkfT2eHl._3Wg53T10KuuPmyWOMWsY2F
+
+! https://my.xfinity.com
+my.xfinity.com##._1th.band-blur
+my.xfinity.com##.tv-band-cover.band-dark
+my.xfinity.com###news-band
+my.xfinity.com##news-link-band > .link-band.band-light
+my.xfinity.com##.lazyload.wrapper-right.container
+my.xfinity.com##.slick-slider.slick-initialized.riot-promoband > .draggable.slick-list > .slick-track > .slick-active.slick-current.slick-slide.cover
+my.xfinity.com##news-link-band2 > .link-band.band-light
+my.xfinity.com##.sections
+
+! https://customer.xfinity.com
+customer.xfinity.com##div.link-group__item > .langLink
+
+! https://github.com
+github.com##li.flex-items-center.d-flex.flex-justify-between.flex-wrap.position-relative.edge-item-fix.mr-lg-3.mr-0.border-lg-bottom-0.border-bottom.flex-lg-items-center.flex-lg-nowrap.d-lg-flex.d-block:nth-of-type(6)
+
+! https://nyaa.net
+nyaa.net###cookie-warning
+
+! https://coronavirus.jhu.edu
+coronavirus.jhu.edu##.HeaderBuff_base__3e8h6
+coronavirus.jhu.edu##.Footer_base__uZt_i
+coronavirus.jhu.edu##.headerbuff-include.Header_container__2zLfi
+
+! https://www.pirate-bay.net
+www.pirate-bay.net##.modal-body
+www.pirate-bay.net##.modal.in.nordvpn-popup--v12.nordvpn-popup.fade
+
+! https://outlook.office365.com
+outlook.office365.com###owaNoteFeedButton > .o365cs-base
+outlook.office365.com###owaNoteFeedButton_container > ._3OFPOuvhHOYjd1fO_g_ymI > .o365sx-button._2-4jfRBkDLE1Xuu-op_VA2
+outlook.office365.com##._3ioEp2RGR5vb0gqRDsaFPa
+outlook.office365.com###skype_container > ._3G91_NL3NSqKUY1T54ewS8 > ._3G91_NL3NSqKUY1T54ewS8
+outlook.office365.com###owaHelpButton_container > ._3OFPOuvhHOYjd1fO_g_ymI > .o365sx-button._2-4jfRBkDLE1Xuu-op_VA2
+
+! https://www.2-spyware.com
+www.2-spyware.com##.initExitIntentModal.esol-overlay
+
+! https://www.bitskins.com
+www.bitskins.com##.hidden-sm.hidden-xs.chat-box
+
+! https://kanojo-okarishimasu.com
+kanojo-okarishimasu.com##div.pages__ad:nth-of-type(5)
+kanojo-okarishimasu.com##div.pages__ad
+
+! https://theweek.com
+theweek.com##.background
+theweek.com##.us29-main-block
+theweek.com###us60-test
+theweek.com###US61-main-block
+
+! https://www.google.com
+www.google.com##div.section-cardbox.section-layout:nth-of-type(2)
+www.google.com##.section-promo-card-section
+www.google.com##.gb_E.gb_wg.gb_i.gb_xg.gb_Ta
+
+! https://www.reddit.com
+www.reddit.com##.scrollerItem.hrQ5rXDbyl6t3TIXxENXB._3Qkp11fjcAw9I9wtLo8frE._1EG7_Cm18ANvUvJ4rJdRgQ
+
