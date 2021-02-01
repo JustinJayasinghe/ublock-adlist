@@ -234,6 +234,7 @@ trade.aliexpress.com###J_xiaomi_dialog
 ! https://www.reddit.com
 www.reddit.com##._2nelDm85zKKmuD94NequP0.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._3t7aUZU2b2KWwDQkfT2eHl._3Wg53T10KuuPmyWOMWsY2F.Z_HUY3BUsGOBOtdmH94ZS
 www.reddit.com##._2nelDm85zKKmuD94NequP0.HNozj_dKjQZ59ZsfEegz8._2tU8R9NTqhvBrhoNAXWWcP._3t7aUZU2b2KWwDQkfT2eHl._3Wg53T10KuuPmyWOMWsY2F
+www.reddit.com##.scrollerItem.hrQ5rXDbyl6t3TIXxENXB._3Qkp11fjcAw9I9wtLo8frE._1EG7_Cm18ANvUvJ4rJdRgQ
 
 ! https://my.xfinity.com
 my.xfinity.com##._1th.band-blur
@@ -290,7 +291,3 @@ theweek.com###US61-main-block
 www.google.com##div.section-cardbox.section-layout:nth-of-type(2)
 www.google.com##.section-promo-card-section
 www.google.com##.gb_E.gb_wg.gb_i.gb_xg.gb_Ta
-
-! https://www.reddit.com
-www.reddit.com##.scrollerItem.hrQ5rXDbyl6t3TIXxENXB._3Qkp11fjcAw9I9wtLo8frE._1EG7_Cm18ANvUvJ4rJdRgQ
-
