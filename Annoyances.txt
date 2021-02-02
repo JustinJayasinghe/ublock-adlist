@@ -55,6 +55,7 @@ www.crunchyroll.com###social_media
 www.crunchyroll.com###welcome_left
 www.crunchyroll.com##li.large-margin-bottom:nth-of-type(1)
 www.crunchyroll.com###marketing_box.get-funimation-section
+www.crunchyroll.com##.get-funimation-section
 
 
 
