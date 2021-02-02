@@ -133,6 +133,7 @@ www.53.com##.c-alert__content
 www.53.com##.full-together.section.outer-grid-container
 www.53.com##.app-cta.s-rte.c-text-block--gray.js-content-block-height.c-text-block.srf-text-block-245aecfe-b54e-4285-ab81-77db27b521ec
 onlinebanking.53.com##li.ng-scope.list-nav-v__item:nth-of-type(4)
+onlinebanking.53.com##.ng-scope.-info.spacing-alt-sides.spacing-alt-top.spacing.s-alerts
 
 ! https://robinhood.com
 robinhood.com##.css-17cxjzm.css-11qjisw._28R8oZGOkuO2zzUALVVteM
@@ -189,6 +190,9 @@ olb.1stsource.com###Rewards
 olb.1stsource.com##div.composite-layout-widget.composite-layout__widget-container:nth-of-type(3)
 olb.1stsource.com##div.composite-layout-widget.composite-layout__widget-container:nth-of-type(4)
 olb.1stsource.com##div.composite-layout-widget.composite-layout__widget-container:nth-of-type(2)
+www.1stsource.com##.right-sidebar.two-column.section
+www.1stsource.com##.foot > .gutter.wrap
+olb.1stsource.com##.composite-layout__column-secondary.composite-layout__column-container > div.composite-layout-widget.composite-layout__widget-container:nth-of-type(1)
 
 ! https://banned.video
 banned.video##.css-17l8gso
@@ -291,3 +295,22 @@ theweek.com###US61-main-block
 www.google.com##div.section-cardbox.section-layout:nth-of-type(2)
 www.google.com##.section-promo-card-section
 www.google.com##.gb_E.gb_wg.gb_i.gb_xg.gb_Ta
+
+! https://duckduckgo.com
+duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.header__label.showcase.header--aside__item
+duckduckgo.com##.social.header__label.header--aside__social.header--aside__item
+
+! http://linksyssmartwifi.com
+linksyssmartwifi.com##.app-store-links
+linksyssmartwifi.com##section.configured-content:nth-of-type(2)
+linksyssmartwifi.com##figure
+linksyssmartwifi.com##.text-orphan.left.login-content.lt-content
+
+! https://mega.nz
+mega.nz##.ui-droppable.affiliate.nw-fm-left-icon
+mega.nz##.ui-droppable.conversations.nw-fm-left-icon
+mega.nz##.ui-droppable.contacts.nw-fm-left-icon
+mega.nz##.active.ui-droppable.shared-with-me.nw-fm-left-icon
+mega.nz##.ui-droppable.shared-with-me.nw-fm-left-icon
+mega.nz##.top-social-bl
