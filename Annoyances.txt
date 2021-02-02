@@ -50,13 +50,11 @@ www.crunchyroll.com###games_button
 www.crunchyroll.com##[href="/news"]
 www.crunchyroll.com###store_button
 www.crunchyroll.com##.cr-expo-banner
-www.crunchyroll.com##[src="https://img1.ak.crunchyroll.com/i/spire2/e37ac0fea857d4433dd748339e4e9fcd1608591528_main.png"]
-www.crunchyroll.com##[src="https://img1.ak.crunchyroll.com/i/spire2/09cbe4a142715aaa8f36e09ad5c0fbd61608591495_main.png"]
 www.crunchyroll.com##.follow-crunchyroll-social
 www.crunchyroll.com###social_media
-www.crunchyroll.com##[src="https://img1.ak.crunchyroll.com/i/spire2/956a856c75fe673b80e51af17e242d1c1610117615_main.png"]
 www.crunchyroll.com###welcome_left
 www.crunchyroll.com##li.large-margin-bottom:nth-of-type(1)
+##.get-funimation-section
 
 
 ! https://www.pscp.tv
