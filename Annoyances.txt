@@ -35,6 +35,9 @@ www.youtube.com##.size-default.style-suggestive.ytd-video-owner-renderer.style-s
 ! https://fitgirl-repacks.site
 fitgirl-repacks.site###smart_push_smio_overlay
 fitgirl-repacks.site###smart_push_smio_window
+fitgirl-repacks.site###primary-menu > .menu-item-1533.menu-item-object-page.menu-item-type-post_type.menu-item
+fitgirl-repacks.site###custom_html-5
+fitgirl-repacks.site###menu-main-menu > .menu-item-1533.menu-item-object-page.menu-item-type-post_type.menu-item
 
 ! https://www.crunchyroll.com
 www.crunchyroll.com##.cf.message-container
@@ -57,8 +60,6 @@ www.crunchyroll.com##li.large-margin-bottom:nth-of-type(1)
 www.crunchyroll.com###marketing_box.get-funimation-section
 www.crunchyroll.com##.get-funimation-section
 
-
-
 ! https://www.pscp.tv
 www.pscp.tv##.fill
 www.pscp.tv##.OutlineHeart > svg > .shape
@@ -67,6 +68,9 @@ www.pscp.tv##.Chat--visible.Broadcast-Chat > .jqjkUJ.sc-18jr3f7-0
 ! https://www.4chan.org
 www.4chan.org###announce
 boards.4channel.org##h3
+boards.4channel.org##.hideMobile.globalMessage
+boards.4channel.org##hr:nth-of-type(3)
+boards.4channel.org###op
 
 ! https://www.amazon.com
 www.amazon.com###\30 Is5RHBplAZiEg6c9ujYZA > .cropped-image-map-size > .cropped-image-map-center-alignment
@@ -117,6 +121,7 @@ purdue.brightspace.com###d2l_1_18_619 > .d2l-widget-content-padding > .d2l-htmlb
 purdue.brightspace.com##.homepage-col-4 > .d2l-custom-widget.d2l-widget > .d2l-widget-header
 purdue.brightspace.com##.instagram-media-rendered.instagram-media
 purdue.brightspace.com##div.d2l-page-message-container:nth-of-type(2)
+purdue.brightspace.com##.d2l-login-portal-login-container
 
 ! https://docs.google.com
 docs.google.com##.jfk-butterBar-shown.jfk-butterBar-info.jfk-butterBar
@@ -216,6 +221,7 @@ www.pixiv.net##.TbiBa.sc-1p2gd44-9
 www.pixiv.net##.hAYyXm.sc-4nj1pr-6
 www.pixiv.net##.lmABtt.sc-1pad3y5-1
 www.pixiv.net##.OBqnq.sc-1oyjv05-0
+www.pixiv.net##.keYHNW.sc-16hmo26-0
 
 ! https://mail.tutanota.com
 mail.tutanota.com##button.button-height.button-width-fixed.bg-transparent.noselect.limit-width:nth-of-type(3)
@@ -232,6 +238,10 @@ japaneseasmr.com##.comment-respond
 ! https://myapps.paychex.com
 myapps.paychex.com###chatFab
 
+! https://hanime.tv
+hanime.tv##.user-options
+hanime.tv##.mt-3.more_from.images__content
+
 ! https://trade.aliexpress.com
 trade.aliexpress.com###J_xiaomi_dialog
 
@@ -239,6 +249,7 @@ trade.aliexpress.com###J_xiaomi_dialog
 www.reddit.com##._2nelDm85zKKmuD94NequP0.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._3t7aUZU2b2KWwDQkfT2eHl._3Wg53T10KuuPmyWOMWsY2F.Z_HUY3BUsGOBOtdmH94ZS
 www.reddit.com##._2nelDm85zKKmuD94NequP0.HNozj_dKjQZ59ZsfEegz8._2tU8R9NTqhvBrhoNAXWWcP._3t7aUZU2b2KWwDQkfT2eHl._3Wg53T10KuuPmyWOMWsY2F
 www.reddit.com##.scrollerItem.hrQ5rXDbyl6t3TIXxENXB._3Qkp11fjcAw9I9wtLo8frE._1EG7_Cm18ANvUvJ4rJdRgQ
+www.reddit.com##.header-user-dropdown
 
 ! https://my.xfinity.com
 my.xfinity.com##._1th.band-blur
