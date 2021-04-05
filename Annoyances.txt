@@ -24,13 +24,11 @@ www.youtube.com##.ytp-promotooltip-content
 www.youtube.com##.ytp-promotooltip-pointer
 www.youtube.com##.ytp-promotooltip-buttons
 www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
-www.youtube.com###contentContainer
 www.youtube.com###icon > .yt-img-shadow.style-scope
 www.youtube.com##.ytd-popup-container.style-scope > .yt-tooltip-renderer.style-scope
 www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 www.youtube.com##paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
 www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
-www.youtube.com##.size-default.style-suggestive.ytd-video-owner-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-suggestive.ytd-button-renderer.style-scope
 
 ! https://fitgirl-repacks.site
 fitgirl-repacks.site###smart_push_smio_overlay
