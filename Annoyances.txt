@@ -5,6 +5,7 @@ myanimelist.net##.btn-login
 myanimelist.net##.btn-signup
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net###footer-block
+myanimelist.net##li.smaller:nth-of-type(7)
 
 ! weather.com
 weather.com##.PrivacyDataNotice--notice--2-o4G
@@ -57,6 +58,9 @@ www.crunchyroll.com###welcome_left
 www.crunchyroll.com##li.large-margin-bottom:nth-of-type(1)
 www.crunchyroll.com###marketing_box.get-funimation-section
 www.crunchyroll.com##.get-funimation-section
+www.crunchyroll.com##.opt-in__bg
+www.crunchyroll.com##.opt-in
+www.crunchyroll.com##.cr-beta-cta
 
 ! https://www.pscp.tv
 www.pscp.tv##.fill
@@ -91,6 +95,7 @@ twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1gm7m50.r-14l
 www.coinbase.com##.cYKNWe.Banner__Container-sc-14no7q4-0
 www.coinbase.com##.eCGjpA.moduleFade__Frame-sc-53f9yi-0 > .hQHOjL.ModalTrigger__Trigger-sc-1npzs5i-0.gaVUrq.Flex-l69ttv-0
 www.coinbase.com##section:nth-of-type(2)
+www.coinbase.com##li.gAbYPs.SideBar__StyledNavigationRowItem-i7yks-0.foTPme.NavigationRowItem__NavigationListItem-bhyenj-2:nth-of-type(4)
 
 ! https://www.twitch.tv
 www.twitch.tv##.tw-pd-y-1.tw-mg-r-1.tw-full-height.tw-flex
@@ -158,6 +163,7 @@ rarbg.to##.header5
 rarbg.to##div.divadvscat:nth-of-type(1)
 rarbg.to##form > table > tbody > tr > .lista
 rarbg.to##.header4
+rarbg.to##td.header3:nth-of-type(7)
 
 ! https://cuddlyoctopus.com
 cuddlyoctopus.com##.topnav-no-hdnav.navRight.topnav.sc--colored.social-icons.sh-component
