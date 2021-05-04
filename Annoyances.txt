@@ -329,3 +329,8 @@ mega.nz##.ui-droppable.contacts.nw-fm-left-icon
 mega.nz##.active.ui-droppable.shared-with-me.nw-fm-left-icon
 mega.nz##.ui-droppable.shared-with-me.nw-fm-left-icon
 mega.nz##.top-social-bl
+
+!https://www.textnow.com
+www.textnow.com##.flex-fill.flex-row > div > div.rotation-manager-slot > div
+www.textnow.com###rectSlotAd > div
+www.textnow.com##.internationalization-btn.sidebar-bottom-btn
