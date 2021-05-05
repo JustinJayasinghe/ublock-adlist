@@ -334,3 +334,5 @@ mega.nz##.top-social-bl
 www.textnow.com##.flex-fill.flex-row > div > div.rotation-manager-slot > div
 www.textnow.com###rectSlotAd > div
 www.textnow.com##.internationalization-btn.sidebar-bottom-btn
+www.textnow.com###banner
+
