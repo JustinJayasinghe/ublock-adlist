@@ -61,6 +61,7 @@ www.crunchyroll.com##.get-funimation-section
 www.crunchyroll.com##.opt-in__bg
 www.crunchyroll.com##.opt-in
 www.crunchyroll.com##.cr-beta-cta
+www.crunchyroll.com##[href="/comics/manga"]
 
 ! https://www.pscp.tv
 www.pscp.tv##.fill
