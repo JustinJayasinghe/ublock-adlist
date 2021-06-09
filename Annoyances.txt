@@ -6,6 +6,7 @@ myanimelist.net##.btn-signup
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net###footer-block
 myanimelist.net##li.smaller:nth-of-type(7)
+myanimelist.net##.icon-shop-default.js-shop-selecter.js-shop-anime.amazon.btn-affiliate > [src="https://cdn.myanimelist.net/images/affiliates/buy_amazon5.gif"]
 
 ! weather.com
 weather.com##.PrivacyDataNotice--notice--2-o4G
@@ -30,6 +31,8 @@ www.youtube.com##.ytd-popup-container.style-scope > .yt-tooltip-renderer.style-s
 www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 www.youtube.com##paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
 www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
+www.youtube.com###header
+www.youtube.com###guide-content
 
 ! https://fitgirl-repacks.site
 fitgirl-repacks.site###smart_push_smio_overlay
@@ -74,6 +77,7 @@ boards.4channel.org##h3
 boards.4channel.org##.hideMobile.globalMessage
 boards.4channel.org##hr:nth-of-type(3)
 boards.4channel.org###op
+www.4chan.org###abc-cnt
 
 ! https://www.amazon.com
 www.amazon.com###\30 Is5RHBplAZiEg6c9ujYZA > .cropped-image-map-size > .cropped-image-map-center-alignment
@@ -98,6 +102,9 @@ www.coinbase.com##.eCGjpA.moduleFade__Frame-sc-53f9yi-0 > .hQHOjL.ModalTrigger__
 www.coinbase.com##section:nth-of-type(2)
 www.coinbase.com##li.gAbYPs.SideBar__StyledNavigationRowItem-i7yks-0.foTPme.NavigationRowItem__NavigationListItem-bhyenj-2:nth-of-type(4)
 
+! https://www.cointracker.io
+www.cointracker.io##.mr-4.btn-light.btn.ct
+
 ! https://www.twitch.tv
 www.twitch.tv##.tw-pd-y-1.tw-mg-r-1.tw-full-height.tw-flex
 www.twitch.tv##.tw-relative.prime-offers > .tw-relative.tw-inline-block .tw-inline-flex .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
@@ -117,6 +124,14 @@ www.twitch.tv##.tw-top-0.tw-left-0.tw-full-width.tw-absolute.headliner-ad
 www.twitch.tv##.tw-pd-x-3.tw-pd-t-2.front-page-carousel
 www.twitch.tv##.tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-inline-flex.tw-core-button.tw-button-icon--primary.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
 www.twitch.tv##.tw-relative.report-button > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+www.twitch.tv##.prime-offers.hBZJQK.sc-AxjAm
+www.twitch.tv##.chat-input.OsGMV.sc-AxjAm > div
+www.twitch.tv##.kDfOjx.sc-AxjAm
+www.twitch.tv##.stream-chat-header.jGtCgK.sc-AxjAm
+www.twitch.tv##.channel-leaderboard.gpRRaJ.sc-AxjAm
+www.twitch.tv##.iYUNrt.sc-AxjAm > .iDPpfj.ScCoreButtonSecondary-sc-1qn4ixc-2.ScCoreButton-sc-1qn4ixc-0
+www.twitch.tv##.fWCiFE.ScCoreButtonPrimary-sc-1qn4ixc-1.ScCoreButton-sc-1qn4ixc-0
+www.twitch.tv##.side-nav--expanded.side-nav.ZkZgD.sc-AxjAm
 
 ! https://purdue.brightspace.com
 purdue.brightspace.com##.d2l-navigation-s-course-menu > d2l-dropdown
@@ -219,6 +234,16 @@ chan.sankakucomplex.com##[href="/comment/index"]
 chan.sankakucomplex.com##[href="/post/upload"]
 chan.sankakucomplex.com##li:nth-of-type(8)
 chan.sankakucomplex.com##li:nth-of-type(7)
+chan.sankakucomplex.com##.sidebar > div > [href="https://get.sankaku.plus/"]
+chan.sankakucomplex.com##[href^="/tag/index"]
+chan.sankakucomplex.com##li:nth-of-type(9)
+chan.sankakucomplex.com##.lang-select
+chan.sankakucomplex.com##[href="/static/more"]
+chan.sankakucomplex.com##[href="/note/index"]
+chan.sankakucomplex.com##[href="/post_tag_history/index"]
+chan.sankakucomplex.com###subnavbar > li > [href^="/"]
+chan.sankakucomplex.com##[href="/rankings/show"]
+chan.sankakucomplex.com##[href^="https://beta.sankakucomplex.com/books"]
 
 ! https://www.pixiv.net
 www.pixiv.net##div.hQsnCM.sc-1p2gd44-12:nth-of-type(4)
@@ -227,6 +252,9 @@ www.pixiv.net##.hAYyXm.sc-4nj1pr-6
 www.pixiv.net##.lmABtt.sc-1pad3y5-1
 www.pixiv.net##.OBqnq.sc-1oyjv05-0
 www.pixiv.net##.keYHNW.sc-16hmo26-0
+www.pixiv.net##.gIkQZS.sc-1lcpra1-1 > .fnwGms.sc-1i2bd9o-2
+www.pixiv.net##.eVHVNc.sc-1rlbh8f-0 > .fnwGms.sc-1i2bd9o-2
+www.pixiv.net##.hXXDEt.rmdopf-1 > .fnwGms.sc-1i2bd9o-2
 
 ! https://mail.tutanota.com
 mail.tutanota.com##button.button-height.button-width-fixed.bg-transparent.noselect.limit-width:nth-of-type(3)
@@ -274,6 +302,8 @@ github.com##li.flex-items-center.d-flex.flex-justify-between.flex-wrap.position-
 
 ! https://nyaa.net
 nyaa.net###cookie-warning
+nyaa.si##li:nth-of-type(4)
+nyaa.si##li:nth-of-type(3)
 
 ! https://coronavirus.jhu.edu
 coronavirus.jhu.edu##.HeaderBuff_base__3e8h6
@@ -336,4 +366,6 @@ www.textnow.com##.flex-fill.flex-row > div > div.rotation-manager-slot > div
 www.textnow.com###rectSlotAd > div
 www.textnow.com##.internationalization-btn.sidebar-bottom-btn
 www.textnow.com###banner
+www.textnow.com##.notification-priming-modal > .modal
+
 
