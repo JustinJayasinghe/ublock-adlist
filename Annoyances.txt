@@ -15,6 +15,17 @@ weather.com##.LinkList--inline-no-border--15tLI.Footer--corporateLinks--26KPc.Fo
 weather.com##.LinkList--inline--6G_xP.Footer--legalLinks--2scMz.Footer--linklist--1nSN2.LinkList--LinkList--N5p7e
 weather.com##.LinkList--inline--6G_xP.Footer--privacyLinks--xcXJA.Footer--linklist--1nSN2.LinkList--LinkList--N5p7e
 weather.com##.Footer--externalAttribution--myrsl
+weather.com##.Button--default--2yeqQ.AccountLinks--accountButton--3XiaJ
+weather.com###WxuContentMedia-main-09c1c236-6109-4bb1-8320-270ca13e32eb
+weather.com###WxuContentMedia-sidebar-20a7b935-d282-4d84-b1f8-60b249a5b655 > .Card--card--4VS_Q.Card--cardPadded--2jAM0.card
+weather.com###WxuPromoDriver-sidebar-721f1a1a-460a-422c-a0db-db83a582b227
+weather.com###WxuContentMedia-main-b1766804-9ab2-490e-888d-6e18caaf7134
+weather.com###WxuContentMedia-main-93e78c6f-fbe9-47e1-ae14-07a7ca30cac0
+weather.com###WxuContentMedia-sidebar-0a9c94b7-ef3b-457a-a681-6d69343d3a21 > .Card--card--4VS_Q.Card--cardPadded--2jAM0.card
+weather.com###WxuContentMedia-main-1c3ff204-b4b7-4882-912e-340ab075b3c5 > .Card--card--4VS_Q.Card--cardPadded--2jAM0.card
+weather.com###Taboola-sidebar-e2fe134e-8420-4e70-b68f-460cc793ef52 > .Card--card--4VS_Q.card > .Card--cardHeader--3A3B1
+weather.com##.TwcCopyright--copyright--1ncYG
+weather.com##.Footer--privacyLinksParagraph--3OqlR
 
 ! https://www.youtube.com
 www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
@@ -33,6 +44,8 @@ www.youtube.com##paper-dialog.ytd-popup-container.style-scope > .ytd-popup-conta
 www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
 www.youtube.com###header
 www.youtube.com###guide-content
+www.youtube.com###sections
+www.youtube.com###continuations > .ytd-item-section-renderer.style-scope
 
 ! https://fitgirl-repacks.site
 fitgirl-repacks.site###smart_push_smio_overlay
@@ -101,6 +114,7 @@ www.coinbase.com##.cYKNWe.Banner__Container-sc-14no7q4-0
 www.coinbase.com##.eCGjpA.moduleFade__Frame-sc-53f9yi-0 > .hQHOjL.ModalTrigger__Trigger-sc-1npzs5i-0.gaVUrq.Flex-l69ttv-0
 www.coinbase.com##section:nth-of-type(2)
 www.coinbase.com##li.gAbYPs.SideBar__StyledNavigationRowItem-i7yks-0.foTPme.NavigationRowItem__NavigationListItem-bhyenj-2:nth-of-type(4)
+www.coinbase.com##li.gAbYPs.SideBar__StyledNavigationRowItem-i7yks-0.edYVnD.NavigationRowItem__NavigationListItem-sc-89ekat-2:nth-of-type(4)
 
 ! https://www.cointracker.io
 www.cointracker.io##.mr-4.btn-light.btn.ct
@@ -132,6 +146,8 @@ www.twitch.tv##.channel-leaderboard.gpRRaJ.sc-AxjAm
 www.twitch.tv##.iYUNrt.sc-AxjAm > .iDPpfj.ScCoreButtonSecondary-sc-1qn4ixc-2.ScCoreButton-sc-1qn4ixc-0
 www.twitch.tv##.fWCiFE.ScCoreButtonPrimary-sc-1qn4ixc-1.ScCoreButton-sc-1qn4ixc-0
 www.twitch.tv##.side-nav--expanded.side-nav.ZkZgD.sc-AxjAm
+www.twitch.tv##.eXenLC.sc-AxjAm
+www.twitch.tv##.extensions-popover.gPvydG.sc-AxjAm
 
 ! https://purdue.brightspace.com
 purdue.brightspace.com##.d2l-navigation-s-course-menu > d2l-dropdown
@@ -302,8 +318,6 @@ github.com##li.flex-items-center.d-flex.flex-justify-between.flex-wrap.position-
 
 ! https://nyaa.net
 nyaa.net###cookie-warning
-nyaa.si##li:nth-of-type(4)
-nyaa.si##li:nth-of-type(3)
 
 ! https://coronavirus.jhu.edu
 coronavirus.jhu.edu##.HeaderBuff_base__3e8h6
